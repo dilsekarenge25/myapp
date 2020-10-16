@@ -9,6 +9,7 @@ function App() {
     <div className="design" style={{backgroundColor:greet().color}}>
       
         <Tags name="Aditya"/>
+        <Tags name="Everyone"/>
       
     </div>
 
